@@ -8,7 +8,7 @@ import React from 'react'
 function Title() {
   return (
     <div className="Title">
-      <img src={aws_logo} height = '120' />
+      <img src={aws_logo} height = "100" />
     </div>
   )
 }
